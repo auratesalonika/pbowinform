@@ -1,0 +1,16 @@
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\bin\Debug\Weather Application.exe.config
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\bin\Debug\Weather Application.exe
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\bin\Debug\Weather Application.pdb
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Cuaca.csproj.AssemblyReference.cache
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Cuaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Weather_Application.ForecastUC.resources
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Weather_Application.Form1.resources
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Weather_Application.Form2.resources
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Weather_Application.Properties.Resources.resources
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Cuaca.csproj.GenerateResource.cache
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Cuaca.csproj.CoreCompileInputs.cache
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Cuaca.csproj.CopyComplete
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Weather Application.exe
+C:\Users\Fahmi\Documents\Aal\Aura\Tugas2\Cuaca\Weather Application\obj\Debug\Weather Application.pdb
